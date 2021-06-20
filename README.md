@@ -11,9 +11,9 @@ The multiple line chart shows the total fare by city type from January to April.
 <img src="analysis/Fig8.png"/>  
 
 ## Summary
-From the multiple line chart it is seen that suburban areas there is an increase in rides in April which is different than in the other city types. Perhaps this is something to look into in order to see what causes that peak and how the other city types could also have an increase.
+From the multiple line chart it is seen that in suburban areas there is an increase in rides in April which is different than in the other city types. Perhaps this is something to look into in order to see what causes that peak and how the other city types could also have an increase.
 
-From this analysis we are able to see how the average fare per ride and driver have a significant increase in less populated cities. This is due to most likely having less drivers available. In order to increase the total fares maybe more drivers could be added which will lead to lower fare per ride and more people taking rides. 
+From this analysis we are able to see how the average fare per ride and driver have a significant increase in less populated cities. This is due to most likely having less drivers available. In order to increase the total fares maybe more drivers could be added in in rural areas which will lead to lower fare per ride and more people taking rides. 
 
 
 
