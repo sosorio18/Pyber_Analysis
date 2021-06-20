@@ -6,7 +6,14 @@ From the summary data frame a number of things could be seen. Urban cities have 
 
 <img src="summary_df.png"/>  
 
-The multiple line chart shows the total fare by city type from January to April. You could also see in this chart how the Urban cities fares are much higher than the other two area types. For all city types, there is a peak of rides at the end of February which correlates to higher fares. 
+The multiple line chart shows the total fare by city type from January to April. You could also see in this chart how the Urban cities fares are much higher than the other two area types. For all city types, there is a peak of rides at the end of February which correlates with higher fares. 
 
-<img src="analysis/fig8.png"/>  
+<img src="analysis/Fig8.png"/>  
+
+## Summary
+From the multiple line chart it is seen that suburban areas there is an increase in rides in April which is different than in the other city types. Perhaps this is something to look into in order to see what causes that peak and how the other city types could also have an increase.
+
+From this analysis we are able to see how the average fare per ride and driver have a significant increase in less populated cities. This is due to most likely having less drivers available. In order to increase the total fares maybe more drivers could be added which will lead to lower fare per ride and more people taking rides. 
+
+
 
